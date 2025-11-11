@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h> // random fuct comes under this lib so isko import krte haai random function ko use krne ke liye 
+#include <stdlib.h> // random fuction comes under this library so isko import krte hai random function ko use krne ke liye 
 #include <time.h> //current time ko use krne ke liye
 
 int main() {
@@ -40,3 +40,4 @@ int main() {
 
     return 0;
 }
+
